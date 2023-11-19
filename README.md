@@ -1,22 +1,17 @@
 # StayOnTop Script
 
-This Python script allows you to make a specified window always on top using the `pygetwindow` and `pywin32` libraries.
+# This Python script, utilizing the pygetwindow and pywin32 libraries, empowers you to toggle the "always on top" state of a specified window.
 
 ## Usage
 
 ### Option 1: Run the Executable (Windows Only)
 
-1. Go to the [Releases](https://github.com/DlgshKurd/StayOnTop-Script/releases) section of this repository.
-
+1. Visit the [Releases](https://github.com/DlgshKurd/StayOnTop-Script/releases) section of this repository.
 2. Download the latest release.
-
 3. Extract the downloaded ZIP file.
-
-4. Run the `StayOnTop.exe` executable.
-
-5. Switch to the window you want it to stay "always on top" and wait 3 seconds.  
-
-6. exe closed? congrats it worked (:
+4. Execute the `StayOnTop.exe` executable.
+5. Switch to the desired window and wait for 3 seconds.
+6. If the executable closes, congratulations, it worked (:
 
 ### Option 2: Run the Script (Windows)
 
@@ -36,8 +31,7 @@ This Python script allows you to make a specified window always on top using the
 
     ```bash
     python -m venv venv
-    .\venv\Scripts\activate 
-
+    .\venv\Scripts\activate
     ```
 
 4. Install dependencies:
@@ -51,12 +45,10 @@ This Python script allows you to make a specified window always on top using the
     ```bash
     python StayOnTop.py
     ```
-    6. Switch to the window you want it to stay "always on top" and wait 3 seconds.  
-
-    7. Script Ended? congrats it worked (:
-
+   
+6. Switch to the window you want it to stay "always on top" and wait 3 seconds.
+7. If the script ends, congratulations, it worked (:
 
 ## Issues
 
 If you encounter any issues or have suggestions, please [open an issue](https://github.com/DlgshKurd/StayOnTop-Script/issues).
-
