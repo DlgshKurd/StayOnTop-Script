@@ -35,9 +35,13 @@ This Python script allows you to make a specified window always on top using the
 3. (Optional) Create and activate a virtual environment:
 
     ```bash
+    # On Windows
     python -m venv venv
-    .\venv\Scripts\activate  # On Windows
-    source venv/bin/activate  # On macOS/Linux
+    .\venv\Scripts\activate 
+    # On macOS/Linux
+    sudo apt install python3-venv
+    python3 -m venv venv
+    source venv/bin/activate 
     ```
 
 4. Install dependencies:
@@ -49,9 +53,11 @@ This Python script allows you to make a specified window always on top using the
 5. Run the script:
 
     ```bash
+    # On Windows
     python StayOnTop.py
+    # On macOS/Linux
+    python3 StayOnTop.py
     ```
-
     6. Switch to the window you want it to stay "always on top" and wait 3 seconds.  
 
     7. Script Ended? congrats it worked (:
