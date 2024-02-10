@@ -1,6 +1,6 @@
 # StayOnTop Script
 
-# This Python script, utilizing the pygetwindow and pywin32 libraries, empowers you to toggle the "always on top" state of a specified window.
+# This Python script, empowers you to toggle the "always on top" state of a specified window.
 
 ## Usage
 
