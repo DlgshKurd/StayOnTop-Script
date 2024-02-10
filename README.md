@@ -4,6 +4,10 @@
 
 ## Usage
 
+
+![video-ezgif com-video-to-gif-converter](https://github.com/DlgshKurd/StayOnTop-Script/assets/96995162/b06bfcc3-f4ac-4785-985b-3220923a9c44)
+
+
 ### Option 1: Run the Executable (Windows Only)
 
 1. Visit the [Releases](https://github.com/DlgshKurd/StayOnTop-Script/releases) section of this repository.
