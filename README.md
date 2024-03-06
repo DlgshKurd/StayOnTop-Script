@@ -55,4 +55,4 @@
 
 ## Issues
 
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/DlgshKurd/StayOnTop-Script/issues).
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/DelgshSeli/StayOnTop-Script/issues).
