@@ -31,20 +31,20 @@
     cd StayOnTop-Script
     ```
 
-3. (Optional) Create and activate a virtual environment:
+2.1 (Optional) Create and activate a virtual environment:
 
     ```bash
     python -m venv venv
     .\venv\Scripts\activate
     ```
 
-4. Install dependencies:
+3. Install dependencies:
 
     ```bash
     pip install -r requirements.txt
     ```
 
-5. Run the script:
+4. Run the script:
 
     ```bash
     python StayOnTop.py
