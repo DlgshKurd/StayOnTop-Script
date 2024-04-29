@@ -4,11 +4,11 @@ This Python script empowers you to toggle the "always on top" state of a specifi
 
 ## Usage
 
-![StayOnTop Demo](https://github.com/DelgshSeli/StayOnTop-Script/assets/96995162/b06bfcc3-f4ac-4785-985b-3220923a9c44)
+![StayOnTop Demo](https://github.com/DlgshKurd/StayOnTop-Script/assets/96995162/b06bfcc3-f4ac-4785-985b-3220923a9c44)
 
 ### Option 1: Run the Executable (Windows Only)
 
-1. Visit the [Releases](https://github.com/DelgshSeli/StayOnTop-Script/releases) section of this repository.
+1. Visit the [Releases](https://github.com/DlgshKurd/StayOnTop-Script/releases) section of this repository.
 2. Download the latest release.
 3. Extract the downloaded ZIP file.
 4. Execute the `StayOnTop.exe` executable.
@@ -53,4 +53,4 @@ This Python script empowers you to toggle the "always on top" state of a specifi
 
 ## Issues
 
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/DelgshSeli/StayOnTop-Script/issues).
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/DlgshKurd/StayOnTop-Script/issues).
